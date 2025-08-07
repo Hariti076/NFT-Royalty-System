@@ -71,3 +71,4 @@ module message_board_addr::NFTRoyalty {
     }
 
 }
+
